@@ -1,0 +1,45 @@
+.hero {
+  background-image: url(../assets/images/Background_Intro.png);
+  background-size:cover ;
+  background-position: center;
+
+
+  min-height: 100vh;
+  display: grid;
+  justify-items: center;
+  text-align: center;
+  color: var(--gray-100);
+
+}
+.avatar {
+  border-radius: 50%;
+  width: 73px;
+  height: 73px;
+  
+}
+
+.borda{
+  margin-top: 100px;
+  width: 80px;
+  height: 80px;
+
+  background-image: url(../assets/icons/Border_foto.svg);
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+header nav {
+     font: var(--title-sm);
+  }
+
+.stacks {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
