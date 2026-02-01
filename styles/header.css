@@ -188,12 +188,35 @@ h1{
   background-color: var(--gray-600);
 }
 
+#servicos > header {
+  padding: 88px 0 47px 0;
+}
+
 .card-servicos{
   display: flex;
   gap: 24px;
-  align-items: end;
+  justify-content: center;
+
+  padding-bottom: 120px;
   
 }
+
+.card-servicos > div{
+  width: 280px;
+  /* height: 155px; */
+
+  border: 1px solid var(--gray-500);
+  border-radius: 12px;
+  padding: 20px;
+
+  /* display: flex; */
+  flex-direction: column;
+  gap: 12px;
+
+  /* max-width: 300px; */
+}
+
+
 
 
 

@@ -36,6 +36,8 @@
 .title-card{
   font: var(--title-sm);
   color: var(--gray-100);
+  margin-bottom: 8px;
+
   
 }
 
@@ -45,4 +47,25 @@
   
 }
 
+.img-servicos{
+  width: 48px;
+  height: 48px;
+  margin-bottom: 15px;
+  
+}
 
+.img1{
+  color: var(--purple);
+}
+
+.img2{
+  text-decoration: var(--yellow);
+}
+
+.img3{
+  color: var(--green);
+}
+
+.text-servicos{
+  gap: 50px;
+}
