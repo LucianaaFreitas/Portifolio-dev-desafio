@@ -10,3 +10,39 @@
   gap:16px;
 }
 
+.subtitulo{
+  color: var(--red);
+  font: var(--subtitle);
+  text-align: center;
+  font-size: 24px;
+  display: grid;
+  margin-bottom: 8px;
+
+}
+
+.titulo1{
+  color: var(--gray-100);
+  font: var(--title-md);
+  text-align: center;
+  font-size: 29px;
+  margin-bottom: 29px;
+}
+
+.centralizar {
+  text-align: center;
+  margin-bottom: 48px;
+}
+
+.title-card{
+  font: var(--title-sm);
+  color: var(--gray-100);
+  
+}
+
+.text-card {
+  font: var(--text-sm);
+  color: var(--gray-200);
+  
+}
+
+
