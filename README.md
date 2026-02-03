@@ -8,7 +8,7 @@ O foco do projeto é uma interface moderna, organizada e responsiva, utilizando 
 
 ---
 
-## ✨ Visão Geral
+##  Visão Geral
 
 O portfólio é dividido em seções bem definidas:
 
@@ -21,7 +21,7 @@ O layout foi pensado para ser intuitivo, visualmente limpo e profissional.
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - **HTML5** — Estrutura semântica
 - **CSS3** — Layout, responsividade e estilização
@@ -30,7 +30,7 @@ O layout foi pensado para ser intuitivo, visualmente limpo e profissional.
 
 ---
 
-## 🚀 Como visualizar o projeto
+## Como visualizar o projeto
 
 1. Clone o repositório:
 ```bash
