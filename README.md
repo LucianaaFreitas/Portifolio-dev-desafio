@@ -1,6 +1,6 @@
 # Portfólio • Luciana Freitas
 
-![Preview do Portfólio](./assets/images/preview.png)
+![Preview do Portfólio](./assets/images/Preview.png)
 
 Este repositório contém o código do meu **portfólio pessoal**, desenvolvido para apresentar meus projetos, habilidades e serviços como desenvolvedora Fullstack.
 
