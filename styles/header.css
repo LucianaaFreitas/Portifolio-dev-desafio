@@ -10,6 +10,7 @@
 
   
   margin-inline: auto;
+  padding-bottom: 120px;
 }
 
 .hero-content {
@@ -18,7 +19,8 @@
   padding:  0 24px;
   /* centraliza o bloco(margem automatica dos dois lados */
   margin-inline: auto;
-  margin-top: 80px;
+  margin-top: 200px;
+  margin-bottom: 300px;
   
   
   /* organiza os elementos-tudo em coluna,centralizado,espaço ok */
@@ -62,6 +64,7 @@
   width: 24px;
   right: 1px;
   bottom: 1px;
+
 }
 .nome{
   color: var(--red);
@@ -137,7 +140,7 @@ h1{
   place-items: center;
 
   
-  /* padding-bottom : 72px; */
+  padding-bottom : 110px;
   /* margin-bottom: 144px; */
   
 }
@@ -216,7 +219,72 @@ h1{
   /* max-width: 300px; */
 }
 
+#contato{
+padding-top: 128px;
+text-align: center;
 
+background-image: url(../assets/images/Background_Contacts.png);
+background-size:cover ;
+background-position: center;
+
+min-height: 80vh;
+/* display: grid; */
+}
+
+.subtitulo-contato{
+  color: var(--purple);
+  font: var(--subtitle);
+  margin-bottom: 8px;
+}
+
+.titulo2{
+  color: var(--gray-100);
+  font: var(--title-md);
+  text-align: center;
+  font-size: 29px;
+  margin-bottom: 8px;
+}
+
+.text-contato {
+  font: var(--text-md);
+  color: var(--gray-200);
+  margin-bottom: 48px;
+}
+
+nav{
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  gap: 16px;
+
+ 
+}
+
+.card-contato{
+  font: var(--maven);
+  color: var(--gray-200);
+  align-items: center;
+  
+  display: flex;
+  width: 350px;
+  gap: 16px;
+  background: none;
+  padding: 16px;
+
+  background: var(--gray-400);
+
+  border-radius: 6px;
+
+}
+
+.card-contato a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.img-seta {
+  margin-left: auto;
+}
 
 
 

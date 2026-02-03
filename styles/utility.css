@@ -2,9 +2,6 @@
   display: grid;
 }
 
-.grid-flow-col{
-  grid-auto-flow:column;
-}
 
 .gap {
   gap:16px;
@@ -14,7 +11,6 @@
   color: var(--red);
   font: var(--subtitle);
   text-align: center;
-  font-size: 24px;
   display: grid;
   margin-bottom: 8px;
 
@@ -68,4 +64,8 @@
 
 .text-servicos{
   gap: 50px;
+}
+
+.grid-flow-col{
+  grid-auto-flow:column;
 }
